@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #b681fe;
+}
+
+h1 {
+  font-size: 72px;
+  background: -webkit-linear-gradient(#eee, rgb(26, 24, 24));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
